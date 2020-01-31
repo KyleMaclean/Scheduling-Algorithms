@@ -1,0 +1,21 @@
+Producer Id = 0, Produced = 1, Consumed = 0: *
+Producer Id = 0, Produced = 2, Consumed = 0: **
+Producer Id = 0, Produced = 3, Consumed = 0: ***
+Producer Id = 0, Produced = 4, Consumed = 0: ****
+Producer Id = 0, Produced = 5, Consumed = 0: *****
+Producer Id = 0, Produced = 6, Consumed = 0: ******
+Producer Id = 0, Produced = 7, Consumed = 0: *******
+Consumer Id = 0, Produced = 7, Consumed = 1: ******
+Consumer Id = 0, Produced = 7, Consumed = 2: *****
+Consumer Id = 0, Produced = 7, Consumed = 3: ****
+Consumer Id = 0, Produced = 7, Consumed = 4: ***
+Consumer Id = 0, Produced = 7, Consumed = 5: **
+Consumer Id = 0, Produced = 7, Consumed = 6: *
+Consumer Id = 0, Produced = 7, Consumed = 7: 
+Producer Id = 0, Produced = 8, Consumed = 7: *
+Producer Id = 0, Produced = 9, Consumed = 7: **
+Producer Id = 0, Produced = 10, Consumed = 7: ***
+Consumer Id = 0, Produced = 10, Consumed = 8: **
+Consumer Id = 0, Produced = 10, Consumed = 9: *
+Consumer Id = 0, Produced = 10, Consumed = 10: 
+sSync = 1, sDelayProducer = 0, sJobs = 0
