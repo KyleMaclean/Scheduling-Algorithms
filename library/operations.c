@@ -1,10 +1,6 @@
-/**************************************************************************************************************************
-			DO NOT CHANGE THE CONTENTS OF THIS FILE FOR YOUR COURSEWORK. ONLY WORK WITH THE OFFICIAL VERSION
-**************************************************************************************************************************/
-
 #include <stdlib.h>
 #include <sys/time.h>
-#include "coursework.h"
+#include "operations.h"
 #include <stdio.h>
 
 int iPid = 0;

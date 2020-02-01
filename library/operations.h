@@ -1,7 +1,3 @@
-/**************************************************************************************************************************
-			DO NOT CHANGE THE CONTENTS OF THIS FILE FOR YOUR COURSEWORK. ONLY WORK WITH THE OFFICIAL VERSION
-**************************************************************************************************************************/
-
 #include <sys/time.h>
 
 // Duration of the time slice for the round robin algorithm

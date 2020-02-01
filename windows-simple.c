@@ -1,14 +1,13 @@
-// Kyle James Maclean (username = psykjm) (id = 14327105)
-// gcc task4.c linkedlist.c coursework.c -lpthread -std=c99
+// gcc windows-simple.c library/linkedlist.c library/operations.c -lpthread -std=c99
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
 #include <semaphore.h>
-#include "coursework.h"
-#include "linkedlist.h"
+#include "library/operations.h"
+#include "library/linkedlist.h"
 double dAverageResponseTime, dAverageTurnAroundTime;
-#include "printFunction.c"
+#include "library/printFunction.c"
 
 sem_t sSync, sFull, sEmpty;
 int producer_id, consumer_id, produced, consumed;
