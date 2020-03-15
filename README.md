@@ -1,6 +1,5 @@
 # Scheduling Algorithms
-_Implementing popular approaches to solve dynamic synchronisation problems.
-Concepts: critical sections, semaphores, mutexes, parallel programming, buffers._
+_Concepts: critical sections, semaphores, mutexes, parallel programming, buffers._
 
 Process scheduling in a static environment where all jobs are known at the start: `static-a.c` implements First Come First Served (FCFS). `static-b.c` implements Round Robin (RR).
 
